@@ -1,0 +1,69 @@
+INFO 2023-09-23 16:01:53,468 autoreload 2568 15488 Watching for file changes with StatReloader
+INFO 2023-09-23 16:02:27,191 basehttp 2568 2436 "GET / HTTP/1.1" 200 10664
+INFO 2023-09-23 16:06:28,870 basehttp 2568 2436 "GET / HTTP/1.1" 200 10664
+INFO 2023-09-23 16:06:32,141 basehttp 2568 2436 "GET / HTTP/1.1" 200 10664
+WARNING 2023-09-23 16:06:54,161 log 2568 2436 Not Found: /about
+WARNING 2023-09-23 16:06:54,162 basehttp 2568 2436 "GET /about HTTP/1.1" 404 2095
+INFO 2023-09-23 16:07:32,111 autoreload 15496 6640 Watching for file changes with StatReloader
+INFO 2023-09-23 16:07:38,618 basehttp 15496 14092 "GET / HTTP/1.1" 200 10664
+WARNING 2023-09-23 16:07:47,922 log 15496 14092 Not Found: /about
+WARNING 2023-09-23 16:07:47,923 basehttp 15496 14092 "GET /about HTTP/1.1" 404 2095
+INFO 2023-09-23 16:08:31,584 autoreload 15848 14100 Watching for file changes with StatReloader
+INFO 2023-09-23 16:08:35,520 basehttp 15848 14152 "GET / HTTP/1.1" 200 10664
+WARNING 2023-09-23 16:09:11,584 log 15848 14152 Not Found: /heads_tails
+WARNING 2023-09-23 16:09:11,585 basehttp 15848 14152 "GET /heads_tails HTTP/1.1" 404 2113
+WARNING 2023-09-23 16:39:22,696 log 15848 15036 Not Found: /heads_tails
+WARNING 2023-09-23 16:39:22,697 basehttp 15848 15036 "GET /heads_tails HTTP/1.1" 404 2113
+WARNING 2023-09-23 16:39:36,747 log 15848 15036 Not Found: /heads_tails/
+WARNING 2023-09-23 16:39:36,748 basehttp 15848 15036 "GET /heads_tails/ HTTP/1.1" 404 2116
+INFO 2023-09-23 16:40:10,028 autoreload 12200 2772 Watching for file changes with StatReloader
+INFO 2023-09-23 16:40:14,031 basehttp 12200 2584 "GET / HTTP/1.1" 200 10664
+WARNING 2023-09-23 16:40:26,209 log 12200 2584 Not Found: /about
+WARNING 2023-09-23 16:40:26,210 basehttp 12200 2584 "GET /about HTTP/1.1" 404 2095
+WARNING 2023-09-23 16:43:44,121 log 12200 2584 Not Found: /about
+WARNING 2023-09-23 16:43:44,122 basehttp 12200 2584 "GET /about HTTP/1.1" 404 2095
+WARNING 2023-09-23 16:43:52,565 log 12200 2584 Not Found: /about
+WARNING 2023-09-23 16:43:52,565 basehttp 12200 2584 "GET /about HTTP/1.1" 404 2095
+WARNING 2023-09-23 16:43:57,182 log 12200 2584 Not Found: /about/
+WARNING 2023-09-23 16:43:57,183 basehttp 12200 2584 "GET /about/ HTTP/1.1" 404 2098
+INFO 2023-09-23 16:47:58,206 autoreload 12200 2772 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\myproject\urls.py changed, reloading.
+INFO 2023-09-23 16:47:58,598 autoreload 15784 4216 Watching for file changes with StatReloader
+INFO 2023-09-23 16:48:36,422 autoreload 15784 4216 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\myproject\urls.py changed, reloading.
+INFO 2023-09-23 16:48:36,786 autoreload 11688 15504 Watching for file changes with StatReloader
+INFO 2023-09-23 16:49:20,557 autoreload 11688 15504 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\myproject\urls.py changed, reloading.
+INFO 2023-09-23 16:49:20,909 autoreload 3556 1896 Watching for file changes with StatReloader
+WARNING 2023-09-23 16:49:25,096 log 3556 1768 Not Found: /1app/about/
+WARNING 2023-09-23 16:49:25,097 basehttp 3556 1768 "GET /1app/about/ HTTP/1.1" 404 2221
+WARNING 2023-09-23 16:49:33,534 log 3556 1768 Not Found: /1app/about/
+WARNING 2023-09-23 16:49:33,535 basehttp 3556 1768 "GET /1app/about/ HTTP/1.1" 404 2221
+WARNING 2023-09-23 16:49:40,408 log 3556 1768 Not Found: /1app/about/
+WARNING 2023-09-23 16:49:40,408 basehttp 3556 1768 "GET /1app/about/ HTTP/1.1" 404 2221
+INFO 2023-09-23 16:49:53,225 basehttp 3556 1768 "GET /sem1app/about/ HTTP/1.1" 200 131
+INFO 2023-09-23 16:50:19,266 autoreload 3556 1896 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\urls.py changed, reloading.
+INFO 2023-09-23 16:50:19,633 autoreload 15264 6584 Watching for file changes with StatReloader
+WARNING 2023-09-23 16:50:23,004 log 15264 6136 Not Found: /sem1app/'heads_tails/
+WARNING 2023-09-23 16:50:23,005 basehttp 15264 6136 "GET /sem1app/'heads_tails/ HTTP/1.1" 404 3039
+INFO 2023-09-23 16:50:28,745 basehttp 15264 6136 "GET /sem1app/heads_tails/ HTTP/1.1" 200 8
+INFO 2023-09-23 16:51:27,127 autoreload 15264 6584 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\urls.py changed, reloading.
+INFO 2023-09-23 16:51:27,494 autoreload 15604 12612 Watching for file changes with StatReloader
+INFO 2023-09-23 16:51:36,171 basehttp 15604 8952 "GET /sem1app/about HTTP/1.1" 301 0
+INFO 2023-09-23 16:51:36,174 basehttp 15604 15256 "GET /sem1app/about/ HTTP/1.1" 200 131
+INFO 2023-09-23 16:51:53,548 basehttp 15604 15256 "GET /sem1app/home HTTP/1.1" 301 0
+INFO 2023-09-23 16:51:53,551 basehttp 15604 15592 "GET /sem1app/home/ HTTP/1.1" 200 131
+INFO 2023-09-23 16:56:16,690 autoreload 15604 12612 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO 2023-09-23 16:56:17,066 autoreload 11024 13792 Watching for file changes with StatReloader
+WARNING 2023-09-23 16:56:19,217 log 11024 16064 Not Found: /
+WARNING 2023-09-23 16:56:19,219 basehttp 11024 16064 "GET / HTTP/1.1" 404 2170
+INFO 2023-09-23 16:57:05,757 basehttp 11024 16064 "GET /sem1app/about/ HTTP/1.1" 200 264
+INFO 2023-09-23 16:57:58,155 autoreload 11024 13792 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO 2023-09-23 16:57:58,546 autoreload 13484 15092 Watching for file changes with StatReloader
+INFO 2023-09-23 16:58:01,157 basehttp 13484 3348 "GET /sem1app/about/ HTTP/1.1" 200 274
+WARNING 2023-09-23 16:58:05,341 log 13484 3348 Not Found: /
+WARNING 2023-09-23 16:58:05,341 basehttp 13484 3348 "GET / HTTP/1.1" 404 2170
+INFO 2023-09-23 16:59:09,124 autoreload 13484 15092 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO 2023-09-23 16:59:09,486 autoreload 11612 9712 Watching for file changes with StatReloader
+INFO 2023-09-23 16:59:13,669 basehttp 11612 9688 "GET /sem1app/about/ HTTP/1.1" 200 240
+INFO 2023-09-23 17:00:11,903 autoreload 11612 9712 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO 2023-09-23 17:00:12,293 autoreload 14516 10936 Watching for file changes with StatReloader
+INFO 2023-09-23 17:00:14,380 basehttp 14516 11476 "GET /sem1app/about/ HTTP/1.1" 200 240
+INFO 2023-09-23 17:00:23,593 basehttp 14516 11476 "GET /sem1app/home/ HTTP/1.1" 200 155

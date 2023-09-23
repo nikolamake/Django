@@ -1,0 +1,38 @@
+WARNING Not Found: /1app/about/
+WARNING "GET /1app/about/ HTTP/1.1" 404 2221
+WARNING Not Found: /1app/about/
+WARNING "GET /1app/about/ HTTP/1.1" 404 2221
+WARNING Not Found: /1app/about/
+WARNING "GET /1app/about/ HTTP/1.1" 404 2221
+INFO <WSGIRequest: GET '/sem1app/about/'> request received
+INFO "GET /sem1app/about/ HTTP/1.1" 200 131
+INFO C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\urls.py changed, reloading.
+WARNING Not Found: /sem1app/'heads_tails/
+WARNING "GET /sem1app/'heads_tails/ HTTP/1.1" 404 3039
+INFO <WSGIRequest: GET '/sem1app/heads_tails/'> request received!
+INFO "GET /sem1app/heads_tails/ HTTP/1.1" 200 8
+INFO C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\urls.py changed, reloading.
+INFO "GET /sem1app/about HTTP/1.1" 301 0
+INFO <WSGIRequest: GET '/sem1app/about/'> request received
+INFO "GET /sem1app/about/ HTTP/1.1" 200 131
+INFO "GET /sem1app/home HTTP/1.1" 301 0
+INFO <WSGIRequest: GET '/sem1app/home/'> request received
+INFO "GET /sem1app/home/ HTTP/1.1" 200 131
+INFO C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2170
+INFO <WSGIRequest: GET '/sem1app/about/'> request received
+INFO "GET /sem1app/about/ HTTP/1.1" 200 264
+INFO C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO <WSGIRequest: GET '/sem1app/about/'> request received
+INFO "GET /sem1app/about/ HTTP/1.1" 200 274
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2170
+INFO C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO <WSGIRequest: GET '/sem1app/about/'> request received
+INFO "GET /sem1app/about/ HTTP/1.1" 200 240
+INFO C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\myproject\dz_sem1app\views.py changed, reloading.
+INFO <WSGIRequest: GET '/sem1app/about/'> request received
+INFO "GET /sem1app/about/ HTTP/1.1" 200 240
+INFO <WSGIRequest: GET '/sem1app/home/'> request received
+INFO "GET /sem1app/home/ HTTP/1.1" 200 155
