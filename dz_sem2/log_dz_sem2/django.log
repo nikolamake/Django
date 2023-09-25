@@ -1,0 +1,9 @@
+INFO 2023-09-25 19:29:56,732 autoreload 7460 11916 Watching for file changes with StatReloader
+WARNING 2023-09-25 19:30:02,364 log 7460 3532 Not Found: /
+WARNING 2023-09-25 19:30:02,365 basehttp 7460 3532 "GET / HTTP/1.1" 404 2171
+WARNING 2023-09-25 19:30:02,426 log 7460 3532 Not Found: /favicon.ico
+WARNING 2023-09-25 19:30:02,427 basehttp 7460 3532 "GET /favicon.ico HTTP/1.1" 404 2222
+INFO 2023-09-25 19:30:31,194 basehttp 7460 3532 "GET /dz_sem2app/ HTTP/1.1" 200 106
+INFO 2023-09-25 19:31:30,716 autoreload 7460 11916 C:\Users\nikol\PycharmProjects\pythonProject2\Django_dz\dz_sem2\dz_sem2app\views.py changed, reloading.
+INFO 2023-09-25 19:31:31,078 autoreload 13496 9260 Watching for file changes with StatReloader
+INFO 2023-09-25 19:31:33,039 basehttp 13496 3372 "GET /dz_sem2app/ HTTP/1.1" 200 62
